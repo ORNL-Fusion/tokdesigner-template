@@ -1,0 +1,13 @@
+&inhcd
+
+nsrc = 1
+Pe = 4.75
+Pi = 2.375
+xmid = 0.0
+xwid = 0.2
+
+j0_seed = 1.0
+x0_seed = 0.0
+drho_seed = 0.025
+
+/
